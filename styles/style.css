@@ -55,7 +55,7 @@ header nav ul {
 }
 
 /* All Post's Author's Links Bold and Blue, with no Underline */
-article p a:nth-child(2) {
+article p a:nth-child(2), article h3 a {
   color: #4287f5;
   font-weight: bold;
   text-decoration: none;
