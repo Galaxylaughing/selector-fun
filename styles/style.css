@@ -40,6 +40,7 @@ a:visited {
 /* Remove bullet points from header navigation links */
 header nav ul {
   list-style: none;
+  padding-right: 3em;
 }
 
 /* All Post's Comment Links Italicized, Orange and Remove the Underline */
